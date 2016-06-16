@@ -3,7 +3,7 @@
   "main": "./lib/atom-keyboard-macros-vim",
   "version": "0.1.3",
   "description": "Keyboard macro extension for Atom vim-mode.",
-  "keywords": ['macro', 'vim'],
+  "keywords": ["macro", "vim"],
   "activationCommands": {
     "atom-workspace": "atom-keyboard-macros-vim:toggle_record_macro_vim"
   },
